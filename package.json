@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "node -r dotenv/config index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twilio": "^3.84.0"
+  }
+}
